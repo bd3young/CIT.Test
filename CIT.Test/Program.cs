@@ -10,6 +10,11 @@ namespace CIT.Test
 	{
 		static void Main(string[] args)
 		{
+			//
+			// test git hub
+			//
+
+			Console.WriteLine("Hello World!");
 		}
 	}
 }
